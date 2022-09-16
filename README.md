@@ -3,4 +3,5 @@
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Python for Data Science, SQL, Tableau, and Machine Learning
 - 💞️ I’m looking to collaborate on data analytics and data science projects (sports and business datasets interests me more!)
+- 📝 I write on a weekly basis in my blog about Data, Golf, and Marketing (https://medium.com/@tjanmichela)
 - 📫 How to reach me: michelatjan@gmail.com or connect with me on LinkedIn (https://www.linkedin.com/in/michela-tjan-sakti-effendie/)
